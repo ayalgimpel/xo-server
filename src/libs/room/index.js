@@ -1,0 +1,1 @@
+module.exports = require("../room/route/room.route");
